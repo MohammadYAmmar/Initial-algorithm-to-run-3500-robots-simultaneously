@@ -13,4 +13,4 @@ Here is a picture showing my idea that I explained with the algorithm
 ![much-a image](https://github.com/MohammadYAmmar/Initial-algorithm-to-run-3500-robots-simultaneously/blob/master/An%20illustration%20of%20the%20algorithm%20and%20application.png) 
 
 And here in Arabic
-![much-a image](https://github.com/MohammadYAmmar/Initial-algorithm-to-run-3500-robots-simultaneously/blob/master/An%20illustration%20of%20the%20algorithm%20and%20application.png) 
+![much-a image](https://github.com/MohammadYAmmar/Initial-algorithm-to-run-3500-robots-simultaneously/blob/master/%D8%B5%D9%88%D8%B1%D8%A9%20%D8%AA%D9%88%D8%B6%D9%8A%D8%AD%D9%8A%D8%A9%20%D9%84%D9%84%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%D9%8A%D8%A9%20%D9%88%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82.png) 
